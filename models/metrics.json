@@ -1,0 +1,20 @@
+{
+  "best_model": "LogisticRegression",
+  "results": {
+    "LogisticRegression": {
+      "accuracy": 0.7991483321504613,
+      "f1_score": 0.5916305916305916,
+      "roc_auc": 0.8402800382340025
+    },
+    "RandomForest": {
+      "accuracy": 0.8048261178140526,
+      "f1_score": 0.5801526717557252,
+      "roc_auc": 0.8411868041024051
+    },
+    "XGBoost": {
+      "accuracy": 0.7984386089425124,
+      "f1_score": 0.5786350148367952,
+      "roc_auc": 0.8366620165852902
+    }
+  }
+}
