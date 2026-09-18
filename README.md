@@ -3,7 +3,7 @@
 An end-to-end machine learning project that predicts whether a telecom customer
 is likely to churn, with a live interactive web app for real-time predictions.
 
-**Live demo:** _add your Streamlit Cloud link here after deploying_
+**Live demo:** [Customer Churn Prediction Streamlit App](https://customer-churn-prediction-shivampanday.streamlit.app/)
 **Video walkthrough:** [End-to-End Customer Churn Prediction](https://www.youtube.com/watch?v=UrsalURTS9g)
 
 ---
